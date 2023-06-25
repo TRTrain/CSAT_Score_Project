@@ -2,7 +2,7 @@
 ## Business Task :clipboard:
 Analyze customer satisfaction data to understand how customers feel about the application and discover trends and insights for the business and marketing team. 
 
-## Dataset :newspaper:
+## Dataset 📃
 This dataset collects information about calls from the seller's side to report difficulties with the application. <br>
 Assuming that the person who is collecting data, in this case, is the owner of a shopping app, this dataset contains additional details about complaint records, successfully resolved cases, and customer satisfaction from the seller and customer. 
 
